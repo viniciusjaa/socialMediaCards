@@ -3,7 +3,7 @@
 	text-align: center;	
 }
 .card {
-	margin: 2%; /* Don't touch me */
+	margin: 2%; /* This say "Hey. Don't touch me" to other objs */
 	position: relative; 
 	z-index: 2; 
 	cursor: pointer; /* Click me */
